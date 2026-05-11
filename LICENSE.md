@@ -1,4 +1,4 @@
-
+Get the ultimate Bear for macOS plugin with Bear for macOS automatic Plugin: dark mode & export to PDF. Featuring dark mode and export to PDF, it's the best choice for macOS users.
 
 
 
